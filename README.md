@@ -5,6 +5,16 @@ An Arduino-based obstacle-detecting shoe designed to help blind and visually imp
 ## How it works
 An ultrasonic sensor mounted on the toe measures the distance to objects ahead. A buzzer sounds when an obstacle is within a set distance, and beeps faster as the obstacle gets closer.
 
+## Photos
+
+<img width="576" height="1024" alt="Picture 1" src="https://github.com/user-attachments/assets/2b543b72-45d7-4b5c-87c2-60132b9328ac" />
+<img width="576" height="1024" alt="Picture 2" src="https://github.com/user-attachments/assets/a6e951f7-fed4-43ba-b50e-f1a2fa6beec7" />
+<img width="576" height="1024" alt="Picture 3" src="https://github.com/user-attachments/assets/c3c7a909-3c56-4bda-b60d-0f217190da2e" />
+
+## Video
+
+https://github.com/user-attachments/assets/465b6784-b3c7-40b7-99c5-980032869270
+
 ## Parts
 - Elegoo UNO R3 (Arduino-compatible board)
 - HC-SR04 ultrasonic sensor
